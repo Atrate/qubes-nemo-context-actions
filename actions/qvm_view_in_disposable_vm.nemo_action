@@ -1,0 +1,5 @@
+[Nemo Action]
+Name=View In DisposableVM
+Exec=/usr/bin/qvm-open-in-dvm --view-only "%F"
+Extensions=nodirs
+Selection=single

@@ -1,0 +1,6 @@
+[Nemo Action]
+Name=Copy To Other AppVM…
+Exec=/usr/bin/qvm-copy %F
+Extensions=any
+Selection=notnone
+EscapeSpaces=true

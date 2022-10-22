@@ -1,0 +1,6 @@
+[Nemo Action]
+Name=Move To Other AppVM…
+Exec=/usr/bin/qvm-move %F
+Extensions=any
+Selection=notnone
+EscapeSpaces=true

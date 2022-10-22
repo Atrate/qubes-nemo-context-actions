@@ -1,0 +1,6 @@
+[Nemo Action]
+Name=Convert To Trusted PDF
+Exec=/usr/bin/qvm-convert-pdf -a %P %F
+Extensions=pdf
+Selection=notnone
+EscapeSpaces=true
