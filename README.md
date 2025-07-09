@@ -16,7 +16,7 @@ This repository contains a collection of actions (actually desktop files) for th
 4. Run `sudo ./install.sh`
 
 ## TODO:
-- Make certain actions work for multi-file selection.
+- Make certain actions show a window progress bar.
 
 ## License
 This project is licensed under the [GPL-3.0-or-later](https://www.gnu.org/licenses/gpl-3.0.html).
