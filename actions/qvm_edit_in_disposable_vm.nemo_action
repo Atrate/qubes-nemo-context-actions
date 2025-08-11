@@ -1,5 +1,5 @@
 [Nemo Action]
 Name=Edit In DisposableVM
-Exec=/usr/bin/qvm-open-in-dvm "%F"
+Exec=/usr/bin/qvm-open-in-dvm %F
 Extensions=nodirs
 Selection=single
