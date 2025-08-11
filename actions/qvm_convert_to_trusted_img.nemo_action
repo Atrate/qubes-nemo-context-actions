@@ -1,5 +1,5 @@
 [Nemo Action]
 Name=Convert To Trusted Img
-Exec=/usr/bin/qvm-convert-img "%F" "%P/trusted_%f"
+Exec=/usr/bin/qvm-convert-img %F "%P/trusted_%f"
 Extensions=jpg;png;gif;jpeg;tif
 Selection=single
