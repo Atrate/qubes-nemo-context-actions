@@ -1,8 +1,6 @@
 # Qubes Nemo Context Actions
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0) [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-v2.0%20adopted-ff69b4.svg)](CODE_OF_CONDUCT.md) 
 
-If you're on GitHub and want to create a Pull/Merge Request, head to this project's [GitLab repo](https://gitlab.com/Atrate/qubes-nemo-context-actions).
-
 ## Description
 
 This repository contains a collection of actions (actually desktop files) for the [Nemo file manager](https://github.com/linuxmint/nemo) to make it easier to use it together with Qubes OS.
