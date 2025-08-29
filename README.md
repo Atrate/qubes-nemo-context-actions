@@ -14,7 +14,11 @@ This repository contains a collection of actions (actually desktop files) for th
 4. Run `sudo ./install.sh`
 
 ## TODO:
-- Make certain actions show a window progress bar.
+- Make certain actions show a window progress bar (how does Thunar do it?).
+
+## Other Utilities
+
+See [the qubes-utils repo](https://github.com/Atrate/qubes-utils) for links to other utilities I've written for Qubes.
 
 ## License
 This project is licensed under the [GPL-3.0-or-later](https://www.gnu.org/licenses/gpl-3.0.html).
