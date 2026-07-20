@@ -11,7 +11,8 @@ This repository contains a collection of actions (actually desktop files) for th
 1. Clone the repository on any qube
 2. Send the cloned directory to a template qube
 3. cd into QubesIncoming/qube name/qubes-nemo-context-actions
-4. Run `sudo ./install.sh`
+4. Inspect the `install.sh` file :) (should be easy as it's 11 lines)
+5. Run `sudo ./install.sh`
 
 ## TODO:
 - Make certain actions show a window progress bar (how does Thunar do it?).
