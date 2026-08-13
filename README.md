@@ -14,9 +14,6 @@ This repository contains a collection of actions (actually desktop files) for th
 4. Inspect the `install.sh` file :) (should be easy as it's 11 lines)
 5. Run `sudo ./install.sh`
 
-## TODO:
-- Make certain actions show a window progress bar (how does Thunar do it?).
-
 ## Other Utilities
 
 See [the qubes-utils repo](https://github.com/Atrate/qubes-utils) for links to other utilities I've written for Qubes.
