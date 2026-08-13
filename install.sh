@@ -6,6 +6,6 @@ then
     exit 1
 fi
 
-mkdir -pZ /usr/share/nemo/actions
-cp -rZ ./actions/* /usr/share/nemo/actions
-chmod +r /usr/share/nemo/actions/qvm*
+mkdir -pvZ /usr/share/nemo/actions
+cp -rvZ ./actions/* /usr/share/nemo/actions
+chmod -v +r /usr/share/nemo/actions/qvm*
