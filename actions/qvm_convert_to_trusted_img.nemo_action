@@ -3,3 +3,4 @@ Name=Convert in Disposable Qube
 Exec=/usr/lib/qubes/qvm-actions.sh img %F
 Extensions=jpg;png;gif;jpeg;tif
 Selection=single
+Icon-Name=gtk-convert

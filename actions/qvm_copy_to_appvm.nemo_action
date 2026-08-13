@@ -4,3 +4,4 @@ Exec=/usr/lib/qubes/qvm-actions.sh copy %F
 Extensions=any
 Selection=notnone
 EscapeSpaces=true
+Icon-Name=stock_folder-copy

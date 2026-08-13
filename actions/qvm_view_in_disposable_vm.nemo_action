@@ -3,3 +3,4 @@ Name=View in Disposable Qube
 Exec=/usr/lib/qubes/qvm-actions.sh viewdvm %F
 Extensions=nodirs
 Selection=notnone
+Icon-Name=document-open
