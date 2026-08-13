@@ -1,6 +1,6 @@
 [Nemo Action]
 Name=Convert in Disposable Qube
-Exec=/usr/bin/qvm-convert-pdf -a %P %F
+Exec=/usr/lib/qubes/qvm-actions.sh pdf %F
 Extensions=pdf
 Selection=notnone
 EscapeSpaces=true

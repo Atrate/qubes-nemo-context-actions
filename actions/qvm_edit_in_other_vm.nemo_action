@@ -2,4 +2,4 @@
 Name=Edit in Other Qube
 Exec=/usr/lib/qubes/qvm-actions.sh openvm %F
 Extensions=nodirs
-Selection=single
+Selection=notnone
