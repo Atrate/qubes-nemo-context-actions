@@ -1,5 +1,5 @@
 [Nemo Action]
-Name=Copy to Other Qube
+Name=Copy to Other Qube…
 Exec=/usr/lib/qubes/qvm-actions.sh copy %F
 Extensions=any
 Selection=notnone

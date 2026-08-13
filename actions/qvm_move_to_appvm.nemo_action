@@ -1,5 +1,5 @@
 [Nemo Action]
-Name=Move to Other Qube
+Name=Move to Other Qube…
 Exec=/usr/lib/qubes/qvm-actions.sh move %F
 Extensions=any
 Selection=notnone
