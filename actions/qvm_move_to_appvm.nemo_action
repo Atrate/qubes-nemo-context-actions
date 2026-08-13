@@ -1,5 +1,5 @@
 [Nemo Action]
-Name=Move To Other AppVM…
+Name=Move to Other Qube
 Exec=/usr/bin/qvm-move %F
 Extensions=any
 Selection=notnone

@@ -1,5 +1,5 @@
 [Nemo Action]
-Name=Convert To Trusted PDF
+Name=Convert in Disposable Qube
 Exec=/usr/bin/qvm-convert-pdf -a %P %F
 Extensions=pdf
 Selection=notnone
