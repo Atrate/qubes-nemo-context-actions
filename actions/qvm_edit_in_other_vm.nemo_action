@@ -1,0 +1,5 @@
+[Nemo Action]
+Name=Edit in Other VM
+Exec=/usr/lib/qubes/qvm-actions.sh openvm %F
+Extensions=nodirs
+Selection=single
